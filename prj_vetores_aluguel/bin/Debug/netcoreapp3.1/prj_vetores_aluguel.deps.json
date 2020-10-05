@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "prj_vetores_aluguel/1.0.0": {
+        "runtime": {
+          "prj_vetores_aluguel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prj_vetores_aluguel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

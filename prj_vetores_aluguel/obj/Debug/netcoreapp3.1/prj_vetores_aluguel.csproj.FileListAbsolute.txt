@@ -1,0 +1,13 @@
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\bin\Debug\netcoreapp3.1\prj_vetores_aluguel.exe
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\bin\Debug\netcoreapp3.1\prj_vetores_aluguel.deps.json
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\bin\Debug\netcoreapp3.1\prj_vetores_aluguel.runtimeconfig.json
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\bin\Debug\netcoreapp3.1\prj_vetores_aluguel.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\bin\Debug\netcoreapp3.1\prj_vetores_aluguel.dll
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\bin\Debug\netcoreapp3.1\prj_vetores_aluguel.pdb
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\obj\Debug\netcoreapp3.1\prj_vetores_aluguel.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\obj\Debug\netcoreapp3.1\prj_vetores_aluguel.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\obj\Debug\netcoreapp3.1\prj_vetores_aluguel.AssemblyInfo.cs
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\obj\Debug\netcoreapp3.1\prj_vetores_aluguel.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\obj\Debug\netcoreapp3.1\prj_vetores_aluguel.dll
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\obj\Debug\netcoreapp3.1\prj_vetores_aluguel.pdb
+C:\Users\rafae\source\repos\prj_vetores_aluguel\prj_vetores_aluguel\obj\Debug\netcoreapp3.1\prj_vetores_aluguel.genruntimeconfig.cache
